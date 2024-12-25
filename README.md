@@ -79,7 +79,7 @@ snort -i 4 -c C:\Snort\etc\snort.conf -A console -l C:\Snort\log
 ---
 
 ## 🤝 **Contributing**
-Feel free to fork this repository, submit pull requests, or raise issues if you encounter any problems.
+Feel free to fork this repository, submit pull requests, or raise issues if you encounter any problem.
 
 ---
 
